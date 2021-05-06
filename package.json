@@ -19,7 +19,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "method-override": "^2.3.6",
     "mysql": "^2.11.1",
     "package": "^1.0.1",
